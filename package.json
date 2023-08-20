@@ -1,8 +1,8 @@
 {
-  "name": "nodejs-hw-01",
+  "name": "goit-node-hw-01-cli",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://github.com/damtchorzewski/nodejs-hw-01",
+  "homepage": "https://github.com/damtchorzewski/goit-node-hw-01-cli",
   "main": "index.cjs",
   "scripts": {
     "start": "node index.cjs",
