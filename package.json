@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-hw-01",
+  "private": true,
+  "version": "1.0.0",
+  "homepage": "https://github.com/damtchorzewski/nodejs-hw-01",
+  "main": "index.cjs",
+  "scripts": {
+    "start": "node index.cjs",
+    "start:dev": "nodemon index.cjs"
+  },
+  "description": "",
+  "keywords": [],
+  "author": "Damian Tchorzewski <damiantchorzewski0@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "nanoid": "^3.3.6",
+    "colors": "^1.4.0",
+    "commander": "^11.0.0"
+  }
+}
